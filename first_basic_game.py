@@ -185,6 +185,6 @@ while running == True:
         collided_enemy.kill()
         hit_count += 1
     clock.tick(FPS)
-# quit pygame and the python application:
+# If you want you can quit the game but we miss you:
 pygame.quit()
 quit()
